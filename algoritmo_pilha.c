@@ -1,4 +1,4 @@
-//Algoritmo que insere elementos emn uma Pilha: Last In First Out
+//Algoritmo que insere elementos em uma Pilha: Last In First Out
 //Emilly Lamottte
 #include<stdio.h>
 #include<stdlib.h>
